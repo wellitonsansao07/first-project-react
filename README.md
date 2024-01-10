@@ -5,7 +5,7 @@
   
 Foram usadas as seguintes tecnologias:
 
-- Html
+- HTML
 - CSS
 - JavaScript
 - Express
